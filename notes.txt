@@ -1,0 +1,1 @@
+we have only one thread of execution at one time in javascript
